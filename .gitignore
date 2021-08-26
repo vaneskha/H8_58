@@ -1,7 +1,7 @@
 .sesi1
 .sesi2
 .sesi3
-.sesi9
+.sesi4
 .sesi5
 .sesi6
 .sesi7
@@ -10,9 +10,9 @@
 */.sesi1/*
 */.sesi2/*
 */.sesi3/*
+*/.sesi4/*
 */.sesi5/*
 */.sesi6/*
 */.sesi7/*
 */.sesi8/*
-*/.sesi9/*
 */.ipynb_checkpoints/*
